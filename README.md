@@ -1,14 +1,6 @@
 - 👋 Hi, I’m @AGEXho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in OI 
+- 🌱 I’m currently studying in Rizhao No.1 Middle School of Shandong
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-
-MyQQ 209363184
-
-<a href="https://www.luogu.com.cn/user/302328">MyLuogu</a>
-
-<!---
-AGEXho/AGEXho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    MySite : [iamzqm](https://iamzqm.rth1.link/)
